@@ -1,0 +1,434 @@
+[
+  {
+    "name": "La Maison de Marie",
+    "experience": "Confortable",
+    "rue": "24 rue Gabriel-Vicaire",
+    "ville": " Perros-Guirec",
+    "codePostal": "22700",
+    "telephone": "+33 2 96 49 05 96",
+    "siteWeb": "http://www.lamaisondemarie-laclarte.bzh"
+  },
+  {
+    "name": "Le Manoir du Sphinx",
+    "experience": "Confortable. Nos établissements de charme.",
+    "rue": "67 chemin de la Messe",
+    "ville": " Perros-Guirec",
+    "codePostal": "22700",
+    "telephone": "+33 2 96 23 25 42",
+    "siteWeb": "http://www.lemanoirdusphinx.bzh"
+  },
+  {
+    "name": "Le Bellevue",
+    "experience": "Confortable",
+    "rue": "1 avenue des Pyrénées",
+    "ville": " Lacroix-Falgarde",
+    "codePostal": "31120",
+    "telephone": "+33 5 61 76 94 97",
+    "siteWeb": "http://www.restaurant-lebellevue.com"
+  },
+  {
+    "name": "Le Chalet",
+    "experience": "Confortable",
+    "rue": "4 avenue Durandeau",
+    "ville": " Ax-les-Thermes",
+    "codePostal": "09110",
+    "telephone": "+33 5 61 64 24 31",
+    "siteWeb": "tel:+33 5 61 64 24 31"
+  },
+  {
+    "name": "La Bonne Auberge",
+    "experience": "Confortable",
+    "rue": "63 Route Nationale",
+    "ville": " Dury",
+    "codePostal": "80480",
+    "telephone": "+33 3 22 95 03 33",
+    "siteWeb": "http://www.labonneauberge80.com"
+  },
+  {
+    "name": "Au Vieux Moulin",
+    "experience": "Confortable",
+    "rue": "7 rue du Vieux-Moulin",
+    "ville": " Graufthal",
+    "codePostal": "67320",
+    "telephone": "+33 3 88 70 17 28",
+    "siteWeb": "http://www.auvieuxmoulin.eu"
+  },
+  {
+    "name": "Au Cheval Blanc",
+    "experience": "Confortable",
+    "rue": "11 rue Principale",
+    "ville": " Niedersteinbach",
+    "codePostal": "67510",
+    "telephone": "+33 3 88 09 55 31",
+    "siteWeb": "http://www.hotel-cheval-blanc.fr"
+  },
+  {
+    "name": "La Closerie des Roses",
+    "experience": "Confortable. Nos établissements de charme.",
+    "rue": "455 La Haute-Meilleraie",
+    "ville": " Varades",
+    "codePostal": "44370",
+    "telephone": "+33 2 40 98 33 30",
+    "siteWeb": "tel:+33 2 40 98 33 30"
+  },
+  {
+    "name": "La Taverne Alsacienne",
+    "experience": "Confortable",
+    "rue": "99 rue de la République",
+    "ville": " Ingersheim",
+    "codePostal": "68040",
+    "telephone": "+33 3 89 27 08 41",
+    "siteWeb": "tel:+33 3 89 27 08 41"
+  },
+  {
+    "name": "La Table d'Antan",
+    "experience": "Confortable",
+    "rue": "38 avenue de la Grande-Charmille-du-Parc",
+    "ville": " Sainte-Geneviève-des-Bois",
+    "codePostal": "91700",
+    "telephone": "+33 1 60 15 71 53",
+    "siteWeb": "http://www.latabledantan.fr"
+  },
+  {
+    "name": "Au Chapeau Rouge",
+    "experience": "Confortable",
+    "rue": "49 place du Général-de-Gaulle",
+    "ville": " Chinon",
+    "codePostal": "37500",
+    "telephone": "+33 2 47 98 08 08",
+    "siteWeb": "http://www.auchapeaurouge.fr"
+  },
+  {
+    "name": "L'Artimon",
+    "experience": "Assez confortable",
+    "rue": "17 rue Jean-du-Plessis",
+    "ville": " La Bernerie-en-Retz",
+    "codePostal": "44760",
+    "telephone": "+33 2 51 74 61 60",
+    "siteWeb": "https://www.instagram.com/explore/tags/yesmichelinguide/"
+  },
+  {
+    "name": "Maison Gambert",
+    "experience": "Assez confortable",
+    "rue": "2 rue de la Petite-Pirelle",
+    "ville": " Tain-l'Hermitage",
+    "codePostal": "26600",
+    "telephone": "+33 4 75 09 19 85",
+    "siteWeb": "tel:+33 4 75 09 19 85"
+  },
+  {
+    "name": "L'Embellie",
+    "experience": "Confortable",
+    "rue": "le Bourg",
+    "ville": " Sainte-Cécile",
+    "codePostal": "71250",
+    "telephone": "+33 3 85 50 81 81",
+    "siteWeb": "http://www.restaurant-lembellie.com"
+  },
+  {
+    "name": "La Table",
+    "experience": "Assez confortable. Nos établissements de charme.",
+    "rue": "1 traverse de Jas",
+    "ville": " Les Ribas",
+    "codePostal": "Tourtour",
+    "telephone": "+33 4 94 70 55 95",
+    "siteWeb": "http://www.latable.fr"
+  },
+  {
+    "name": "Comptoir des Voyageurs",
+    "experience": "Assez confortable",
+    "rue": "Place de l'Église",
+    "ville": " Locronan",
+    "codePostal": "29180",
+    "telephone": "+33 2 98 91 70 74",
+    "siteWeb": "http://www.comptoir-des-voyageurs.fr"
+  },
+  {
+    "name": "Voyages des sens",
+    "experience": "Confortable",
+    "rue": "33 rue Principale",
+    "ville": " Treffort",
+    "codePostal": "01370",
+    "telephone": "+33 4 74 51 39 94",
+    "siteWeb": "http://www.voyagesdessens.com"
+  },
+  {
+    "name": "La Fleur de Sel",
+    "experience": "Confortable",
+    "rue": "15 route du Portelin",
+    "ville": " Cevins",
+    "codePostal": "73730",
+    "telephone": "+33 4 79 37 49 98",
+    "siteWeb": "tel:+33 4 79 37 49 98"
+  },
+  {
+    "name": "Le Jardin",
+    "experience": "Très confortable",
+    "rue": "16 rue de la Redoute",
+    "ville": " Haguenau",
+    "codePostal": "67500",
+    "telephone": "+33 3 88 93 29 39",
+    "siteWeb": "http://www.lejardinhaguenau.fr"
+  },
+  {
+    "name": "La Colombe",
+    "experience": "Confortable",
+    "rue": "663 route de Toulon",
+    "ville": " Hyères",
+    "codePostal": "83400",
+    "telephone": "+33 4 94 35 35 16",
+    "siteWeb": "http://www.restaurantlacolombe.com"
+  },
+  {
+    "name": "L'Escargot",
+    "experience": "Assez confortable",
+    "rue": "30 rue du Maréchal-Leclerc",
+    "ville": " Saumur",
+    "codePostal": "49400",
+    "telephone": "+33 2 41 51 20 88",
+    "siteWeb": "https://www.instagram.com/explore/tags/yesmichelinguide/"
+  },
+  {
+    "name": "Ttotta",
+    "experience": "Assez confortable",
+    "rue": "Espace Ibarrondoan",
+    "ville": " Saint-Pée-sur-Nivelle",
+    "codePostal": "64310",
+    "telephone": "+33 5 59 47 03 55",
+    "siteWeb": "http://www.ttotta.fr"
+  },
+  {
+    "name": "Au Bon Accueil",
+    "experience": "Confortable",
+    "rue": "14 rue de Monttessuy",
+    "ville": " Paris",
+    "codePostal": "75007",
+    "telephone": "+33 1 47 05 46 11",
+    "siteWeb": "http://www.aubonaccueilparis.com"
+  },
+  {
+    "name": "Le Vauban",
+    "experience": "Confortable",
+    "rue": "22 quai Caligny",
+    "ville": " Cherbourg-en-Cotentin",
+    "codePostal": "50100",
+    "telephone": "+33 2 33 43 10 11",
+    "siteWeb": "http://www.levauban-cherbourg.fr"
+  },
+  {
+    "name": "Au Fil des Saisons",
+    "experience": "Assez confortable",
+    "rue": "3 rue de la Libération",
+    "ville": " Étupes",
+    "codePostal": "25460",
+    "telephone": "+33 3 81 94 17 12",
+    "siteWeb": "http://www.aufildessaisons.eu"
+  },
+  {
+    "name": "Chez Michel",
+    "experience": "Assez confortable",
+    "rue": "10 rue de Belzunce",
+    "ville": " Paris",
+    "codePostal": "75010",
+    "telephone": "+33 1 44 53 06 20",
+    "siteWeb": "http://www.restaurantchezmichel.fr"
+  },
+  {
+    "name": "Le Colvert",
+    "experience": "Confortable",
+    "rue": "8 rue d'en Boyer",
+    "ville": " Saint-Lieux-lès-Lavaur",
+    "codePostal": "81500",
+    "telephone": "+33 5 63 41 32 47",
+    "siteWeb": "http://www.restaurantlecolvert.com"
+  },
+  {
+    "name": "L'Atelier",
+    "experience": "Assez confortable",
+    "rue": "2 rue Voltaire",
+    "ville": " Périgueux",
+    "codePostal": "24000",
+    "telephone": "+33 5 53 04 56 71",
+    "siteWeb": "http://www.restaurant-perigueux-atelier.com"
+  },
+  {
+    "name": "Auberge des Deux Magots",
+    "experience": "Confortable",
+    "rue": "1 place du Bouffay",
+    "ville": " La Roche-Bernard",
+    "codePostal": "56130",
+    "telephone": "+33 2 99 90 60 75",
+    "siteWeb": "tel:+33 2 99 90 60 75"
+  },
+  {
+    "name": "La Merenda",
+    "experience": "Assez confortable",
+    "rue": "4 rue Raoul-Bosio",
+    "ville": " Nice",
+    "codePostal": "06000",
+    "telephone": "www.lamerenda.net",
+    "siteWeb": "https://www.instagram.com/explore/tags/yesmichelinguide/"
+  },
+  {
+    "name": "Le Rabelais",
+    "experience": "Confortable",
+    "rue": "8 rue Auguste-Fabre",
+    "ville": " Saint-Chamas",
+    "codePostal": "13250",
+    "telephone": "+33 4 90 50 84 40",
+    "siteWeb": "http://www.restaurant-le-rabelais.com"
+  },
+  {
+    "name": "Le Lancelot",
+    "experience": "Confortable",
+    "rue": "12 rue des Déportés",
+    "ville": " Chilleurs-aux-Bois",
+    "codePostal": "45170",
+    "telephone": "+33 2 38 32 91 15",
+    "siteWeb": "http://www.restaurantlelancelot.com"
+  },
+  {
+    "name": "Auberge de la Roche",
+    "experience": "Confortable",
+    "rue": "10 Route Nationale 23",
+    "ville": " Saint-Jean-de-Linières",
+    "codePostal": "49070",
+    "telephone": "+33 2 41 39 72 21",
+    "siteWeb": "http://www.auberge-de-la-roche.com"
+  },
+  {
+    "name": "Auberge du Moulin",
+    "experience": "Confortable",
+    "rue": "36 rue des Moulins-du-Tot",
+    "ville": " Clères",
+    "codePostal": "76690",
+    "telephone": "+33 2 35 33 62 76",
+    "siteWeb": "http://www.aubergedumoulin.org"
+  },
+  {
+    "name": "Coteaux et Fourchettes",
+    "experience": "Confortable",
+    "rue": "Route de Violès",
+    "ville": " Cairanne",
+    "codePostal": "84290",
+    "telephone": "+33 4 90 66 35 99",
+    "siteWeb": "http://www.coteauxetfourchettes.com"
+  },
+  {
+    "name": "La Griotte",
+    "experience": "Assez confortable. Nos établissements de charme.",
+    "rue": "3 rue des Cerisiers",
+    "ville": " Saules",
+    "codePostal": "25580",
+    "telephone": "+33 3 81 57 17 71",
+    "siteWeb": "http://www.lagriotte.fr"
+  },
+  {
+    "name": "La Maison",
+    "experience": "Confortable",
+    "rue": "1 rue du 14-Juillet",
+    "ville": " Cognac",
+    "codePostal": "16100",
+    "telephone": "+33 5 45 35 21 77",
+    "siteWeb": "http://www.restaurant-lamaison-cognac.fr"
+  },
+  {
+    "name": "Pomze",
+    "experience": "Confortable",
+    "rue": "109 boulevard Haussmann",
+    "ville": " Paris",
+    "codePostal": "75008",
+    "telephone": "+33 1 42 65 65 83",
+    "siteWeb": "http://www.pomze.com"
+  },
+  {
+    "name": "La Part des Anges",
+    "experience": "Assez confortable",
+    "rue": "7 rue d'Empare",
+    "ville": " Castres",
+    "codePostal": "81100",
+    "telephone": "+33 5 63 51 65 25",
+    "siteWeb": "https://www.instagram.com/explore/tags/yesmichelinguide/"
+  },
+  {
+    "name": "Histoire Ancienne",
+    "experience": "Assez confortable",
+    "rue": "20 rue Royale",
+    "ville": " Calais",
+    "codePostal": "62100",
+    "telephone": "+33 3 21 34 11 20",
+    "siteWeb": "http://www.histoire-ancienne.com"
+  },
+  {
+    "name": "Au Colombier",
+    "experience": "Assez confortable",
+    "rue": "126 allée Colombier",
+    "ville": " Anse",
+    "codePostal": "69480",
+    "telephone": "+33 4 74 67 04 68",
+    "siteWeb": "http://www.aucolombier.com"
+  },
+  {
+    "name": "L'Arum",
+    "experience": "Assez confortable",
+    "rue": "21 avenue Joseph-Clotis",
+    "ville": " Hyères",
+    "codePostal": "83400",
+    "telephone": "+33 4 83 99 42 04",
+    "siteWeb": "https://www.instagram.com/explore/tags/yesmichelinguide/"
+  },
+  {
+    "name": "Le Dauphin",
+    "experience": "Très confortable",
+    "rue": "29 rue Gemare",
+    "ville": " Caen",
+    "codePostal": "14000",
+    "telephone": "+33 2 31 86 22 26",
+    "siteWeb": "tel:+33 2 31 86 22 26"
+  },
+  {
+    "name": "La Maison Carrier",
+    "experience": "Confortable. Nos établissements de charme.",
+    "rue": "44 route du Bouchet",
+    "ville": " Chamonix-Mont-Blanc",
+    "codePostal": "74400",
+    "telephone": "+33 4 50 53 00 03",
+    "siteWeb": "http://www.hameaualbert.fr"
+  },
+  {
+    "name": "Les Capucins",
+    "experience": "Confortable",
+    "rue": "20 faubourg de Montbéliard",
+    "ville": " Belfort",
+    "codePostal": "90000",
+    "telephone": "+33 3 84 28 04 60",
+    "siteWeb": "tel:+33 3 84 28 04 60"
+  },
+  {
+    "name": "Ar Maen Hir",
+    "experience": "Assez confortable",
+    "rue": "15 bis rue du Prieuré",
+    "ville": " Locronan",
+    "codePostal": "29180",
+    "telephone": "+33 2 56 10 18 37",
+    "siteWeb": "https://www.instagram.com/explore/tags/yesmichelinguide/"
+  },
+  {
+    "name": "Le Tire Bouchon",
+    "experience": "Confortable",
+    "rue": "45 rue Jules-le-Grand",
+    "ville": " Lorient",
+    "codePostal": "56100",
+    "telephone": "+33 2 97 84 71 92",
+    "siteWeb": "http://www.restaurantalorient.com"
+  },
+  {
+    "name": "Le Bastion",
+    "experience": "Assez confortable",
+    "rue": "50 boulevard de la Promenade",
+    "ville": " Lagrasse",
+    "codePostal": "11220",
+    "telephone": "+33 4 68 12 02 51",
+    "siteWeb": "http://www.restaurant-bastion-lagrasse.fr"
+  }
+]
